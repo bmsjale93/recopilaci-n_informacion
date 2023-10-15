@@ -1,0 +1,19 @@
+[[92mdns-saas-service-detection[0m] [[94mdns[0m] [[34minfo[0m] store.epicgames.com [[96mstore-weighted-cdn.epicgames.com.[0m]
+[[92maddeventlistener-detect[0m] [[94mhttp[0m] [[34minfo[0m] https://store.epicgames.com
+[[92mgoogle-floc-disabled[0m] [[94mhttp[0m] [[34minfo[0m] https://store.epicgames.com
+[[92mhttponly-cookie-detect[0m] [[94mhttp[0m] [[34minfo[0m] https://store.epicgames.com
+[[92mtech-detect[0m:[1;92mcloudflare[0m] [[94mhttp[0m] [[34minfo[0m] https://store.epicgames.com
+[[92mhttp-missing-security-headers[0m:[1;92mstrict-transport-security[0m] [[94mhttp[0m] [[34minfo[0m] https://store.epicgames.com
+[[92mhttp-missing-security-headers[0m:[1;92mcontent-security-policy[0m] [[94mhttp[0m] [[34minfo[0m] https://store.epicgames.com
+[[92mhttp-missing-security-headers[0m:[1;92mx-content-type-options[0m] [[94mhttp[0m] [[34minfo[0m] https://store.epicgames.com
+[[92mhttp-missing-security-headers[0m:[1;92mx-permitted-cross-domain-policies[0m] [[94mhttp[0m] [[34minfo[0m] https://store.epicgames.com
+[[92mhttp-missing-security-headers[0m:[1;92mclear-site-data[0m] [[94mhttp[0m] [[34minfo[0m] https://store.epicgames.com
+[[92mgraphql-field-suggestion[0m] [[94mhttp[0m] [[34minfo[0m] https://store.epicgames.com/graphql
+[[92mgraphql-get-method[0m] [[94mhttp[0m] [[34minfo[0m] https://store.epicgames.com/graphql?query={__typename}
+[[92mgraphql-alias-batching[0m] [[94mhttp[0m] [[34minfo[0m] https://store.epicgames.com/graphql
+[[92mapollo-server-detect[0m] [[94mhttp[0m] [[34minfo[0m] https://store.epicgames.com/graphql
+[[92mwaf-detect[0m:[1;92mcloudflare[0m] [[94mhttp[0m] [[34minfo[0m] https://store.epicgames.com/
+[[92mssl-issuer[0m] [[94mssl[0m] [[34minfo[0m] store.epicgames.com:443 [[96mCloudflare, Inc.[0m]
+[[92mssl-dns-names[0m] [[94mssl[0m] [[34minfo[0m] store.epicgames.com:443 [[96msni.cloudflaressl.com[0m,[96mstore.epicgames.com[0m]
+[[92mtls-version[0m] [[94mssl[0m] [[34minfo[0m] store.epicgames.com:443 [[96mtls12[0m]
+[[92mtls-version[0m] [[94mssl[0m] [[34minfo[0m] store.epicgames.com:443 [[96mtls13[0m]

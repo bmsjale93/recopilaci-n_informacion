@@ -1,0 +1,332 @@
+Starting Nmap 7.94 ( https://nmap.org ) at 2023-10-14 12:01 EDT
+Nmap scan report for accf5076e09d.epic-social-game-overlay-prod-ci.ol.epicgames.com (108.157.109.73)
+Host is up (0.017s latency).
+Other addresses for accf5076e09d.epic-social-game-overlay-prod-ci.ol.epicgames.com (not scanned): 108.157.109.75 108.157.109.122 108.157.109.23
+rDNS record for 108.157.109.73: server-108-157-109-73.mad56.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD
+
+Nmap scan report for 0a4b53775655.epic-social-game-overlay-prod-ci.ol.epicgames.com (108.157.109.122)
+Host is up (0.027s latency).
+Other addresses for 0a4b53775655.epic-social-game-overlay-prod-ci.ol.epicgames.com (not scanned): 108.157.109.73 108.157.109.75 108.157.109.23
+rDNS record for 108.157.109.122: server-108-157-109-122.mad56.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD
+
+Nmap scan report for caldera-service-prod.ecosec.on.epicgames.com (104.18.9.63)
+Host is up (0.021s latency).
+Other addresses for caldera-service-prod.ecosec.on.epicgames.com (not scanned): 104.18.8.63 2606:4700::6812:83f 2606:4700::6812:93f
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+
+Nmap scan report for create-epic-kitt-react.fnsocial.on.epicgames.com (18.67.240.82)
+Host is up (0.021s latency).
+Other addresses for create-epic-kitt-react.fnsocial.on.epicgames.com (not scanned): 18.67.240.108 18.67.240.76 18.67.240.122
+rDNS record for 18.67.240.82: server-18-67-240-82.mad56.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+
+Nmap scan report for cdn-0001.qstv.on.epicgames.com (18.154.22.72)
+Host is up (0.017s latency).
+Other addresses for cdn-0001.qstv.on.epicgames.com (not scanned): 18.154.22.128 18.154.22.123 18.154.22.113 2600:9000:24dd:600:10:718b:8240:93a1 2600:9000:24dd:5a00:10:718b:8240:93a1 2600:9000:24dd:4000:10:718b:8240:93a1 2600:9000:24dd:1c00:10:718b:8240:93a1 2600:9000:24dd:400:10:718b:8240:93a1 2600:9000:24dd:c200:10:718b:8240:93a1 2600:9000:24dd:f200:10:718b:8240:93a1 2600:9000:24dd:c400:10:718b:8240:93a1
+rDNS record for 18.154.22.72: server-18-154-22-72.mad53.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for cdn2.epicgames.com (2.16.225.26)
+Host is up (0.023s latency).
+rDNS record for 2.16.225.26: a2-16-225-26.deploy.static.akamaitechnologies.com
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+
+Nmap scan report for cdn1.epicgames.com (2.16.225.26)
+Host is up (0.015s latency).
+rDNS record for 2.16.225.26: a2-16-225-26.deploy.static.akamaitechnologies.com
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+
+Nmap scan report for download.epicgames.com (108.157.109.82)
+Host is up (0.021s latency).
+Other addresses for download.epicgames.com (not scanned): 108.157.109.27 108.157.109.102 108.157.109.75
+rDNS record for 108.157.109.82: server-108-157-109-82.mad56.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for download2.epicgames.com (52.84.66.42)
+Host is up (0.031s latency).
+Other addresses for download2.epicgames.com (not scanned): 52.84.66.50 52.84.66.65 52.84.66.10
+rDNS record for 52.84.66.42: server-52-84-66-42.mad51.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for download3.epicgames.com (52.84.66.103)
+Host is up (0.024s latency).
+Other addresses for download3.epicgames.com (not scanned): 52.84.66.36 52.84.66.64 52.84.66.35
+rDNS record for 52.84.66.103: server-52-84-66-103.mad51.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for download4.epicgames.com (52.84.66.22)
+Host is up (0.012s latency).
+Other addresses for download4.epicgames.com (not scanned): 52.84.66.66 52.84.66.34 52.84.66.28
+rDNS record for 52.84.66.22: server-52-84-66-22.mad51.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for download-test.epicgames.com (108.157.109.10)
+Host is up (0.016s latency).
+Other addresses for download-test.epicgames.com (not scanned): 108.157.109.123 108.157.109.106 108.157.109.65
+rDNS record for 108.157.109.10: server-108-157-109-10.mad56.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for fastly-download.epicgames.com (151.101.134.33)
+Host is up (0.014s latency).
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+
+Nmap scan report for epic-social-social-modules-prod.ol.epicgames.com (108.157.98.38)
+Host is up (0.015s latency).
+Other addresses for epic-social-social-modules-prod.ol.epicgames.com (not scanned): 108.157.98.80 108.157.98.22 108.157.98.90
+rDNS record for 108.157.98.38: server-108-157-98-38.mad56.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD
+
+Nmap scan report for epic-social-game-overlay-prod.ol.epicgames.com (108.157.98.47)
+Host is up (0.011s latency).
+Other addresses for epic-social-game-overlay-prod.ol.epicgames.com (not scanned): 108.157.98.33 108.157.98.20 108.157.98.43
+rDNS record for 108.157.98.47: server-108-157-98-47.mad56.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD
+
+Nmap scan report for fn-hotconfigs.ogs.live.on.epicgames.com (18.154.22.19)
+Host is up (0.011s latency).
+Other addresses for fn-hotconfigs.ogs.live.on.epicgames.com (not scanned): 18.154.22.122 18.154.22.118 18.154.22.117 2600:9000:24dd:ae00:1c:eff1:fb40:93a1 2600:9000:24dd:2200:1c:eff1:fb40:93a1 2600:9000:24dd:3000:1c:eff1:fb40:93a1 2600:9000:24dd:8200:1c:eff1:fb40:93a1 2600:9000:24dd:fc00:1c:eff1:fb40:93a1 2600:9000:24dd:200:1c:eff1:fb40:93a1 2600:9000:24dd:2400:1c:eff1:fb40:93a1 2600:9000:24dd:6600:1c:eff1:fb40:93a1
+rDNS record for 18.154.22.19: server-18-154-22-19.mad53.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD
+
+Nmap scan report for fortnite-island-screenshots-live-cdn.ol.epicgames.com (18.67.240.109)
+Host is up (0.027s latency).
+Other addresses for fortnite-island-screenshots-live-cdn.ol.epicgames.com (not scanned): 18.67.240.16 18.67.240.129 18.67.240.26
+rDNS record for 18.67.240.109: server-18-67-240-109.mad56.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for launcher.store.epicgames.com (104.18.4.159)
+Host is up (0.025s latency).
+Other addresses for launcher.store.epicgames.com (not scanned): 104.18.5.159 2606:4700::6812:59f 2606:4700::6812:49f
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+
+Nmap scan report for installer.ega.ol.epicgames.com (54.78.165.120)
+Host is up (0.055s latency).
+Other addresses for installer.ega.ol.epicgames.com (not scanned): 54.74.143.156 63.34.25.134
+rDNS record for 54.78.165.120: ec2-54-78-165-120.eu-west-1.compute.amazonaws.com
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for jira.epicgames.com (18.67.240.105)
+Host is up (0.027s latency).
+Other addresses for jira.epicgames.com (not scanned): 18.67.240.127 18.67.240.72 18.67.240.114
+rDNS record for 18.67.240.105: server-18-67-240-105.mad56.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for media-cdn.epicgames.com (13.224.115.99)
+Host is up (0.019s latency).
+Other addresses for media-cdn.epicgames.com (not scanned): 13.224.115.50 13.224.115.89 13.224.115.64
+rDNS record for 13.224.115.99: server-13-224-115-99.mad50.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for merchantpool1.epicgames.com (20.31.161.73)
+Host is up (0.035s latency).
+
+PORT   STATE    SERVICE
+80/tcp filtered http
+
+Nmap scan report for modules-cdn.eac-gamedev.on.epicgames.com (52.84.66.114)
+Host is up (0.029s latency).
+Other addresses for modules-cdn.eac-gamedev.on.epicgames.com (not scanned): 52.84.66.60 52.84.66.64 52.84.66.124
+rDNS record for 52.84.66.114: server-52-84-66-114.mad51.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD OPTIONS
+
+Nmap scan report for modules-cdn.eac-prod.on.epicgames.com (18.154.22.90)
+Host is up (0.021s latency).
+Other addresses for modules-cdn.eac-prod.on.epicgames.com (not scanned): 18.154.22.50 18.154.22.73 18.154.22.64
+rDNS record for 18.154.22.90: server-18-154-22-90.mad53.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD OPTIONS
+
+Nmap scan report for nelly-service-prod-cloudflare.ecosec.on.epicgames.com (104.18.10.249)
+Host is up (0.022s latency).
+Other addresses for nelly-service-prod-cloudflare.ecosec.on.epicgames.com (not scanned): 104.18.11.249 2606:4700::6812:bf9 2606:4700::6812:af9
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+
+Nmap scan report for platypus-ci.fnsocial.on.epicgames.com (18.154.41.112)
+Host is up (0.028s latency).
+Other addresses for platypus-ci.fnsocial.on.epicgames.com (not scanned): 18.154.41.20 18.154.41.12 18.154.41.33
+rDNS record for 18.154.41.112: server-18-154-41-112.mad53.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+
+Nmap scan report for redirect.epicgames.com (18.154.22.79)
+Host is up (0.021s latency).
+Other addresses for redirect.epicgames.com (not scanned): 18.154.22.41 18.154.22.87 18.154.22.66
+rDNS record for 18.154.22.79: server-18-154-22-79.mad53.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+
+Nmap scan report for safety.epicgames.com (104.18.29.179)
+Host is up (0.015s latency).
+Other addresses for safety.epicgames.com (not scanned): 104.18.28.179 2606:4700::6812:1db3 2606:4700::6812:1cb3
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+
+Nmap scan report for perf.store.on.epicgames.com (34.202.119.227)
+Host is up (0.11s latency).
+Other addresses for perf.store.on.epicgames.com (not scanned): 3.234.172.228 54.204.253.230
+rDNS record for 34.202.119.227: ec2-34-202-119-227.compute-1.amazonaws.com
+
+PORT   STATE  SERVICE
+80/tcp closed http
+
+Nmap scan report for static-assets-prod.epicgames.com (2.16.225.26)
+Host is up (0.014s latency).
+rDNS record for 2.16.225.26: a2-16-225-26.deploy.static.akamaitechnologies.com
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+
+Nmap scan report for store.epicgames.com (104.18.4.159)
+Host is up (0.028s latency).
+Other addresses for store.epicgames.com (not scanned): 104.18.5.159 2606:4700::6812:49f 2606:4700::6812:59f
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+
+Nmap scan report for status.epicgames.com (54.192.95.48)
+Host is up (0.014s latency).
+Other addresses for status.epicgames.com (not scanned): 54.192.95.53 54.192.95.23 54.192.95.119
+rDNS record for 54.192.95.48: server-54-192-95-48.mad51.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+
+Nmap scan report for talon-service-v4-prod.ak.epicgames.com (23.223.102.61)
+Host is up (0.015s latency).
+rDNS record for 23.223.102.61: a23-223-102-61.deploy.static.akamaitechnologies.com
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+
+Nmap scan report for talon-service-prod.ak.epicgames.com (23.223.102.61)
+Host is up (0.020s latency).
+Other addresses for talon-service-prod.ak.epicgames.com (not scanned): 2a02:26f0:e0:5be::3b63 2a02:26f0:e0:5bd::3b63
+rDNS record for 23.223.102.61: a23-223-102-61.deploy.static.akamaitechnologies.com
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+
+Nmap scan report for talon-website-prod.ak.epicgames.com (23.223.102.61)
+Host is up (0.020s latency).
+Other addresses for talon-website-prod.ak.epicgames.com (not scanned): 2a02:26f0:e0:5bd::3b63 2a02:26f0:e0:5be::3b63
+rDNS record for 23.223.102.61: a23-223-102-61.deploy.static.akamaitechnologies.com
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+
+Nmap scan report for unrealstudio.epicgames.com (18.67.239.203)
+Host is up (0.014s latency).
+rDNS record for 18.67.239.203: server-18-67-239-203.mad56.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+
+Nmap scan report for wex-public-service-live-prod.epic-social-game-overlay-prod-ci.ol.epicgames.com (108.157.109.122)
+Host is up (0.029s latency).
+Other addresses for wex-public-service-live-prod.epic-social-game-overlay-prod-ci.ol.epicgames.com (not scanned): 108.157.109.73 108.157.109.75 108.157.109.23
+rDNS record for 108.157.109.122: server-108-157-109-122.mad56.r.cloudfront.net
+
+PORT   STATE SERVICE
+80/tcp open  http
+| http-methods: 
+|_  Supported Methods: GET HEAD
+
+Nmap done: 37 IP addresses (37 hosts up) scanned in 20.38 seconds

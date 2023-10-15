@@ -1,0 +1,130 @@
+
+                   [1;97m______
+                  [1;97m/      \
+                 [1;97m(  Woof! )
+                  [1;97m\  ____/                      [1;91m)
+                  [1;97m,,                           [1;91m) ([1;93m_
+             [1;93m.-. [1;97m-    [1;92m_______                 [1;91m( [1;93m|__|
+            [1;93m()``; [1;92m|==|_______)                [1;91m.)[1;93m|__|
+            [1;93m/ ('        [1;92m/|\                  [1;91m(  [1;93m|__|
+        [1;93m(  /  )       [1;92m / | \                  [1;91m. [1;93m|__|
+         [1;93m\(_)_))      [1;92m/  |  \                   [1;93m|__|[0m
+
+                    [1;96m~ WAFW00F : [1;94mv2.2.0 ~[1;97m
+    The Web Application Firewall Fingerprinting Toolkit
+    [0m
+[*] Checking https://accf5076e09d.epic-social-game-overlay-prod-ci.ol.epicgames.com
+[+] The site [1;94mhttps://accf5076e09d.epic-social-game-overlay-prod-ci.ol.epicgames.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://0a4b53775655.epic-social-game-overlay-prod-ci.ol.epicgames.com
+[+] The site [1;94mhttps://0a4b53775655.epic-social-game-overlay-prod-ci.ol.epicgames.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://caldera-service-prod.ecosec.on.epicgames.com
+[+] The site [1;94mhttps://caldera-service-prod.ecosec.on.epicgames.com[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://create-epic-kitt-react.fnsocial.on.epicgames.com
+[+] The site [1;94mhttps://create-epic-kitt-react.fnsocial.on.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://cdn-0001.qstv.on.epicgames.com
+[+] The site [1;94mhttps://cdn-0001.qstv.on.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://cdn2.epicgames.com
+[+] The site [1;94mhttps://cdn2.epicgames.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://cdn1.epicgames.com
+[+] The site [1;94mhttps://cdn1.epicgames.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://download.epicgames.com
+[+] The site [1;94mhttps://download.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://download2.epicgames.com
+[+] The site [1;94mhttps://download2.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://download3.epicgames.com
+[+] The site [1;94mhttps://download3.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://download4.epicgames.com
+[+] The site [1;94mhttps://download4.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://download-test.epicgames.com
+[+] The site [1;94mhttps://download-test.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://fastly-download.epicgames.com
+[+] The site [1;94mhttps://fastly-download.epicgames.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://epic-social-social-modules-prod.ol.epicgames.com
+[+] The site [1;94mhttps://epic-social-social-modules-prod.ol.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://epic-social-game-overlay-prod.ol.epicgames.com
+[+] The site [1;94mhttps://epic-social-game-overlay-prod.ol.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://fn-hotconfigs.ogs.live.on.epicgames.com
+[+] The site [1;94mhttps://fn-hotconfigs.ogs.live.on.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://fortnite-island-screenshots-live-cdn.ol.epicgames.com
+[+] The site [1;94mhttps://fortnite-island-screenshots-live-cdn.ol.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://launcher.store.epicgames.com
+[+] The site [1;94mhttps://launcher.store.epicgames.com[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://installer.ega.ol.epicgames.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://jira.epicgames.com
+[*] Checking https://media-cdn.epicgames.com
+[+] The site [1;94mhttps://media-cdn.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://merchantpool1.epicgames.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://modules-cdn.eac-gamedev.on.epicgames.com
+[+] The site [1;94mhttps://modules-cdn.eac-gamedev.on.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://modules-cdn.eac-prod.on.epicgames.com
+[+] The site [1;94mhttps://modules-cdn.eac-prod.on.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://nelly-service-prod-cloudflare.ecosec.on.epicgames.com
+[+] The site [1;94mhttps://nelly-service-prod-cloudflare.ecosec.on.epicgames.com[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://platypus-ci.fnsocial.on.epicgames.com
+[+] The site [1;94mhttps://platypus-ci.fnsocial.on.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://redirect.epicgames.com
+[+] The site [1;94mhttps://redirect.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://safety.epicgames.com
+[+] The site [1;94mhttps://safety.epicgames.com[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://perf.store.on.epicgames.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://static-assets-prod.epicgames.com
+[+] The site [1;94mhttps://static-assets-prod.epicgames.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://store.epicgames.com
+[+] The site [1;94mhttps://store.epicgames.com[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://status.epicgames.com
+[+] The site [1;94mhttps://status.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://talon-service-v4-prod.ak.epicgames.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://talon-service-prod.ak.epicgames.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://talon-website-prod.ak.epicgames.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://unrealstudio.epicgames.com
+[+] The site [1;94mhttps://unrealstudio.epicgames.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://wex-public-service-live-prod.epic-social-game-overlay-prod-ci.ol.epicgames.com
+[+] The site [1;94mhttps://wex-public-service-live-prod.epic-social-game-overlay-prod-ci.ol.epicgames.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2

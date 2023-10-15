@@ -1,0 +1,57 @@
+[2K[Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 144ms][0m
+[2K    * FUZZ: soap
+
+[2K[Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 231ms][0m
+[2K    * FUZZ: soap
+
+[2K[Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 375ms][0m
+[2K    * FUZZ: soap
+
+[2K[Status: 200, Size: 38, Words: 1, Lines: 3, Duration: 125ms][0m
+[2K    * FUZZ: test
+
+[2K[Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 345ms][0m
+[2K    * FUZZ: soap
+
+[2K[Status: 200, Size: 38, Words: 1, Lines: 3, Duration: 259ms][0m
+[2K    * FUZZ: test
+
+[2K[Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 370ms][0m
+[2K    * FUZZ: soap
+
+[2K[Status: 200, Size: 38, Words: 1, Lines: 3, Duration: 405ms][0m
+[2K    * FUZZ: test
+
+[2K[Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 390ms][0m
+[2K    * FUZZ: soap
+
+[2K[Status: 200, Size: 38, Words: 1, Lines: 3, Duration: 133ms][0m
+[2K    * FUZZ: test
+
+[2K[Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 123ms][0m
+[2K    * FUZZ: soap
+
+[2K[Status: 200, Size: 38, Words: 1, Lines: 3, Duration: 353ms][0m
+[2K    * FUZZ: test
+
+[2K[Status: 200, Size: 38, Words: 1, Lines: 3, Duration: 113ms][0m
+[2K    * FUZZ: test
+
+[2K[Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 349ms][0m
+[2K    * FUZZ: soap
+
+[2K[Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 345ms][0m
+[2K    * FUZZ: soap
+
+[2K[Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 406ms][0m
+[2K    * FUZZ: soap
+
+[2K[Status: 200, Size: 64, Words: 1, Lines: 1, Duration: 35ms][0m
+[2K    * FUZZ: .well-known/http-opportunistic
+
+[2K[Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 21ms][0m
+[2K    * FUZZ: soap
+
+[2K[Status: 200, Size: 0, Words: 1, Lines: 1, Duration: 344ms][0m
+[2K    * FUZZ: soap
+
